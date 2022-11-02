@@ -1,6 +1,6 @@
 # Set the background color to the circular area in Xamarin Circular Gauge
 
-This repository contains sample for how to set the background color to the circular area in the [Syncfusion Xamarin.Forms Circular Gauge](https://help.syncfusion.com/xamarin/circular-gauge/getting-started) control.
+This repository contains sample to set the background color to the circular area in the [Syncfusion Xamarin.Forms Circular Gauge](https://help.syncfusion.com/xamarin/circular-gauge/getting-started) control.
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/12606/how-to-set-the-background-color-to-the-circular-area-in-xamarin-forms-circular-gauge).
 
